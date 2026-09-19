@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "274d743994e0a90bc4e09ef7",
+  "owner": "xyfyuna",
+  "repo": "page-6249240626ad92d9eda08326",
+  "title": "KyCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6249240626ad92d9eda08326",
+      "a": "KyCloud",
+      "b": "小火箭节点",
+      "entity": "KyCloud",
+      "brand": "KyCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5586c6e299f294f0155d1e065b23203f61f314805b6b5cc7103012cb771ccf3",
+      "content": {
+        "primary_entity": "KyCloud",
+        "keyword1": "KyCloud",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要海外加速的用户，提供基础版、旗舰版、团队版三档订阅，按月或按年计费，价格与流量清晰可对比。基础版适合个人日常浏览，旗舰版增加 IPLC 专线与流媒体解锁，团队版面向多设备协作场景，支持 20 台设备同时在线。",
+          "AI_HERO_SUBTITLE": "海外加速订阅灵活选",
+          "AI_HERO_INTRO": "KyCloud 提供海外加速订阅，按设备数量、流量需求和线路类型划分套餐。基础版满足单人使用，旗舰版强化流媒体与游戏体验，团队版支持多设备并发与专属节点。选择套餐后按客户端文档导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "KyCloud 订阅速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付费更省预算",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏与流媒体",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路类型三个角度挑选，可快速定位适合自己的档位。",
+          "AI_FEATURE_TITLE_1": "按设备选档",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，多设备用户优先看旗舰版以上。",
+          "AI_FEATURE_TITLE_2": "按流量选档",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，重度使用或多人共享建议团队版。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用年付更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "常见客户端包括 Shadowrocket、Clash、v2rayN、Stash 等，按设备系统选择对应客户端并导入订阅链接即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别 ¥150、¥350、¥850。旗舰版含 IPLC 专线与优先支持，团队版增加 VIP 节点和企业定制路由。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选服务到完成配置，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版、团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本符合订阅要求，避免导入失败。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，完成节点选择后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定档位，导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "KyCloud 套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "基础版月流量 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB、20 台设备，适合团队协作。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "三个版本的年付价格均为十个月月费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_QUESTION_3": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "各套餐有对应的同时在线设备数上限，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅信息？",
+          "AI_FAQ_ANSWER_4": "在对应客户端内找到订阅配置入口，按照客户端文档提示粘贴订阅地址完成导入，不同客户端的菜单名称略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版适合企业或多成员共享使用，提供 1000GB 月流量、20 台设备、VIP 高带宽节点与专属客户经理支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2a67d20dbc7d478310349364aadf9c7c149103a5f67a983fc30fc858ba7c1aeb",
+    "sitemap.xml": "aaf072da6668ec1352275ae0b057a6c56b410e292ab1b9045dafed218deb9b31",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "86431f576a756c8f466f4e2c9d8c3d97234f40fa3e8a09c27916b48543b3f3f7"
+}
